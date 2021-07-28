@@ -194,7 +194,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjdjYThhYmUtODIyNi0zMGY3LThmOGQtNGI4NGYyYjlkMjBi
-#EXTINF:-1 group-title="International Variety" ch-number="211" tvg-id="211" tvg-chno="211" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
+#EXTINF:-1 group-title="Movies" ch-number="211" tvg-id="211" tvg-chno="211" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -340,27 +340,27 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjdjYThhYmUtODIyNi0zMGY3LThmOGQtNGI4NGYyYjlkMjBi
-#EXTINF:-1 group-title="International Variety" ch-number="453" tvg-id="453" tvg-chno="453" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",FOX
+#EXTINF:-1 group-title="Movies" ch-number="453" tvg-id="453" tvg-chno="453" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",FOX
 http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjdjYThhYmUtODIyNi0zMGY3LThmOGQtNGI4NGYyYjlkMjBi
-#EXTINF:-1 group-title="International Variety" ch-number="454" tvg-id="454" tvg-chno="454" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",FX
+#EXTINF:-1 group-title="Movies" ch-number="454" tvg-id="454" tvg-chno="454" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",FX
 http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjdjYThhYmUtODIyNi0zMGY3LThmOGQtNGI4NGYyYjlkMjBi
-#EXTINF:-1 group-title="International Variety" ch-number="455" tvg-id="455" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",FOX Life
+#EXTINF:-1 group-title="Movies" ch-number="455" tvg-id="455" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",FOX Life
 http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjdjYThhYmUtODIyNi0zMGY3LThmOGQtNGI4NGYyYjlkMjBi
-#EXTINF:-1 group-title="International Variety" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Malaysian Variety
+#EXTINF:-1 group-title="Movies" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Malaysian Variety
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjdjYThhYmUtODIyNi0zMGY3LThmOGQtNGI4NGYyYjlkMjBi
-#EXTINF:-1 group-title="International Variety" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",Blue Ant Extreme
+#EXTINF:-1 group-title="Movies" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",Blue Ant Extreme
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -687,25 +687,25 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac?
 #EXTINF:-1 group-title="Radio Stations" ch-number="958" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?DIST=TuneIn
 
-#EXTINF:-1 tvg-id="701" group-title="Malaysian Variety" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
+#EXTINF:-1 tvg-id="701" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-id="705" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX 
+#EXTINF:-1 tvg-id="705" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-id="705" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX B
+#EXTINF:-1 tvg-id="705" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX B
 http://45.126.83.51/dr9445/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-id="393" group-title="Malaysian Variety" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE 
+#EXTINF:-1 tvg-id="393" group-title="Movies" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-id="393" group-title="Malaysian Variety" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE B
+#EXTINF:-1 tvg-id="393" group-title="Movies" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE B
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World
@@ -713,7 +713,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Malaysian Variety" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World (Backup)
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
-#EXTINF:-1 tvg-id="719" group-title="Malaysian Variety" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
+#EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
