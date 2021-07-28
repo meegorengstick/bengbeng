@@ -461,6 +461,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/5jdsVnq/emblem-disney-channel-png-logo-5.png" group-title="Kids", DISNEY CHANNEL
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9ZQ0p1T/Png-Item-835216.png" group-title="Kids", DISNEY JUNIOR
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZDlkYWJjMTEtZTE1My0zYmY2LTkwNGYtNGUyZGE4YWE2ZTBk
 #EXTINF:-1 group-title="News" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png",BBC World News HD
 http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
