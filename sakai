@@ -336,12 +336,7 @@ https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
 #EXTINF:-1 tvg-id="706" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="Entertainment",HITS 
 #http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 
-#EXTINF:-1 tvg-id="706" group-title="MOVIES" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png",Hits Movies 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#EXTINF:-1 tvg-id="706" group-title="Movies" tvg-logo="https://Movies.hitstv.com/img/hits-Movies-logo.png",Hits Movies 
+#EXTINF:-1 tvg-id="706" group-title="Movies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png",Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
