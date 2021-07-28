@@ -51,7 +51,7 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQFfVgCDmLKqyOgdid
 #EXTINF:-1 group-title="Chinese Variety" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
-#EXTINF:-1 tvg-id="148" group-title="Chinese Variety" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",148 8TV (Backup)
+#EXTINF:-1 tvg-id="148" group-title="Chinese Variety" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",8TV (Backup)
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR9YcP6IyfbXk80TBFINCfg)/dm/3/x6qud17/s/live-3.m3u8
 # http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
@@ -60,7 +60,7 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR9YcP6IyfbXk80TBF
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
-#EXTINF: -1 tvg-id="149" group-title="Malaysian Variety" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (Backup)
+#EXTINF: -1 tvg-id="149" group-title="Malaysian Variety" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",TV9 (Backup)
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZT-qazr02s_pxi19oRfkio)/dm/3/x6qqja6/s/live-4.m3u8
 # http://50.7.161.82:8278/streams/d/TV9/playlist.m3u
 
