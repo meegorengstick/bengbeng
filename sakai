@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
-#EXTINF:-1 tvg-id="101" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 (Backup)
+#EXTINF:-1 tvg-id="101" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1<sup>BK</sup>
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 # http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
@@ -17,7 +17,7 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|R
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd
 
-#EXTINF:-1 tvg-id="102" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 (Backup)
+#EXTINF:-1 tvg-id="102" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2<sup>BK</sup>
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 # http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
@@ -27,12 +27,12 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
-#EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup)
+#EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3<sup>BK1</sup>
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 # https://pcccw.github.io/Ark/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
 # http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup 2)
+#EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3<sup>BK2</sup>
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TV6" group-title="Malaysian Variety" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
@@ -44,7 +44,7 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|R
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
 http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM B
+#EXTINF:-1 group-title="Malaysian Variety" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM<sup>BK</sup>
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQFfVgCDmLKqyOgdidDeZkw)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -52,7 +52,7 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQFfVgCDmLKqyOgdid
 #EXTINF:-1 group-title="Chinese Variety" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
-#EXTINF:-1 tvg-id="148" group-title="Chinese Variety" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",8TV (Backup)
+#EXTINF:-1 tvg-id="148" group-title="Chinese Variety" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",8TV<sup>BK</sup>
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR9YcP6IyfbXk80TBFINCfg)/dm/3/x6qud17/s/live-3.m3u8
 # http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
@@ -61,7 +61,7 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR9YcP6IyfbXk80TBF
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
-#EXTINF: -1 tvg-id="149" group-title="Malaysian Variety" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",TV9 (Backup)
+#EXTINF: -1 tvg-id="149" group-title="Malaysian Variety" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",TV9<sup>BK</sup>
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZT-qazr02s_pxi19oRfkio)/dm/3/x6qqja6/s/live-4.m3u8
 # http://50.7.161.82:8278/streams/d/TV9/playlist.m3u
 
@@ -118,20 +118,20 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
 # http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="611" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria(Backup)
+#EXTINF:-1 tvg-id="611" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria<sup>BK</sup>
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria(Backup)
+#EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria<sup>BK</sup>
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
 http://iptv.tvmalaysia.cc:80/737373/737373/6727
 # http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima(Backup)
+#EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima<sup>BK</sup>
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="106" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
@@ -140,38 +140,38 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="107" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1 tvg-id="107" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna(Backup)
+#EXTINF:-1 tvg-id="107" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna<sup>BK</sup>
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
 
 #EXTINF:-1 tvg-id="108" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 tvg-id="108" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra(Backup)
+#EXTINF:-1 tvg-id="108" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra<sup>BK</sup>
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 
 #EXTINF:-1 tvg-id="404" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="404" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo(Backup)
+#EXTINF:-1 tvg-id="404" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo<sup>BK</sup>
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
-#EXTINF:-1 tvg-id="109" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura(Backup)
+#EXTINF:-1 tvg-id="109" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura<sup>BK</sup>
 http://iptv.tvmalaysia.cc:80/737373/737373/6724
 
 #EXTINF:-1 tvg-id="112" group-title="Malaysian Variety" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Rania
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
 
-#EXTINF:-1 tvg-id="112" group-title="Malaysian Variety" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Rania(Backup)
+#EXTINF:-1 tvg-id="112" group-title="Malaysian Variety" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Rania<sup>BK</sup>
 http://iptv.tvmalaysia.cc:80/737373/737373/6729
 
 #EXTINF:-1 tvg-id="113" group-title="Malaysian Variety" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Aura
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 
-#EXTINF:-1 tvg-id="113" group-title="Malaysian Variety" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Aura(Backup)
+#EXTINF:-1 tvg-id="113" group-title="Malaysian Variety" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Aura<sup>BK</sup>
 http://iptv.tvmalaysia.cc:80/737373/737373/6713
 
 #EXTINF:-1 tvg-id="702" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
@@ -247,28 +247,56 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 # http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 # https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgzYdmGv/aku-gratis-hbo.jpg" group-title="Movies", HBO<sup>BK</sup>
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+
 #EXTINF:-1 tvg-id="HBOHitsHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 # http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 # https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7M2g7Lr/aku-gratis-hbohits.jpg" group-title="Movies", HBO Hits<sup>BK</sup>
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTINF:-1 tvg-id="HBOFamilyHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 # https://mediahomes.github.io/assets/hbogo/family.m3u8
 # https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4zhX6FD/aku-gratis-hbofamily.jpg" group-title="Movies", HBO Family<sup>BK</sup>
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
 #EXTINF:-1 tvg-id="HBOSignatureHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 # https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
 # http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pq3YDk3w/aku-gratis-hbosignature.jpg" group-title="Movies", HBO Signature<sup>BK</sup>
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTINF:-1 tvg-id="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 # https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
 # https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d13Dck97/aku-gratis-cinemax.jpg" group-title="Movies", CINEMAX<sup>BK</sup>
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
 #EXTINF:-1 tvg-id="706" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="Movies",HITS 
 #http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5DNQkmk/aku-gratis-hits.jpg" group-title="Movies", HITS<sup>BK</sup>
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-id="706" group-title="Movies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png",Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -282,7 +310,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-#EXTINF:-1 group-title="Movies" ch-number="451" tvg-id="451" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV HD B
+#EXTINF:-1 group-title="Movies" ch-number="451" tvg-id="451" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV HD<sup>BK</sup>
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
