@@ -432,7 +432,7 @@ http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-#EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="508" tvg-id="508" tvg-chno="508" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic HD B
+#EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="508" tvg-id="508" tvg-chno="508" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic HD<sup>BK</sup>
 http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -440,7 +440,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="511" tvg-id="511" tvg-chno="511" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD
 http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
 
-#EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="511" tvg-id="511" tvg-chno="511" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD B
+#EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="511" tvg-id="511" tvg-chno="511" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD<sup>BK</sup>
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="509" tvg-id="509" tvg-chno="509" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild HD 
@@ -450,7 +450,7 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-#EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="509" tvg-id="509" tvg-chno="509" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild HD B
+#EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="509" tvg-id="509" tvg-chno="509" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild HD<sup>BK</sup>
 http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -508,7 +508,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5jdsVnq/emblem-disney-channel-png-logo-5.png" group-title="Kids", Disney Channel
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/5jdsVnq/emblem-disney-channel-png-logo-5.png" group-title="Kids", Disney Channel B
+#EXTINF:-1  tvg-logo="https://i.ibb.co/5jdsVnq/emblem-disney-channel-png-logo-5.png" group-title="Kids", Disney Channel<sup>BK</sup>
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -519,7 +519,7 @@ https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-H
 #EXTINF:-1 tvg-id="615" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="615" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network B
+#EXTINF:-1 tvg-id="615" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network<sup>BK</sup>
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -609,7 +609,7 @@ http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1(Backup)
+#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1<sup>BK</sup>
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
  
 #EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
@@ -619,7 +619,7 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6710
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2(Backup)
+#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2<sup>BK</sup>
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
@@ -629,7 +629,7 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6711
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3(Backup)
+#EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3<sup>BK</sup>
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
@@ -639,13 +639,13 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6712
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4(Backup)
+#EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4<sup>BK</sup>
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network B
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network<sup>BK</sup>
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
@@ -759,7 +759,7 @@ http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-id="705" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX B
+#EXTINF:-1 tvg-id="705" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX<sup>BK</sup>
 http://45.126.83.51/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-id="393" group-title="Entertainment" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE 
@@ -767,12 +767,12 @@ http://45.126.83.51/dr9445/h/h07/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-id="393" group-title="Entertainment" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE B
+#EXTINF:-1 tvg-id="393" group-title="Entertainment" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE<sup>BK</sup>
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World (Backup)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World<sup>BK</sup>
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 #EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
