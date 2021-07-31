@@ -612,28 +612,28 @@ http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/27938
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS MAX MY
 http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/27937
 
-#EXTINF:-1 tvg-id="Astro Supersport HD" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
+#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/321456/321456/6708
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Astro Supersport 2 HD" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
+#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
 http://iptv.tvmalaysia.cc:80/321456/321456/6710
 # http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Astro Supersport 3 HD" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
+#EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
 http://iptv.tvmalaysia.cc:80/321456/321456/6711
 # http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Astro Supersport 4 HD" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
+#EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
 http://iptv.tvmalaysia.cc:80/321456/321456/6712
 # http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
@@ -641,11 +641,11 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6712
 # http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="eGG Network HD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
+#EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 # http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-id="WWE Network HD" group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
+#EXTINF:-1 tvg-id="821" group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -675,17 +675,17 @@ http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-#EXTINF:-1 group-title="Sports" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
+#EXTINF:-1 group-title="Sports" ch-number="706" tvg-id="815" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-#EXTINF:-1 group-title="Sports" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
+#EXTINF:-1 group-title="Sports" ch-number="707" tvg-id="816" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-#EXTINF:-1 group-title="Sports" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
+#EXTINF:-1 group-title="Sports" ch-number="708" tvg-id="817" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
