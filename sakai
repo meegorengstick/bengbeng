@@ -115,7 +115,10 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
 # http://iptv.tvmalaysia.cc:80/139664/139664/6715
 
 #EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
-http://iptv.tvmalaysia.cc:80/139664/139664/6730
+http://iptv.tvmalaysia.cc:80/penang100/penang100/6730
+# http://mantul.biz.id:8888/abd/abd/1105
+# https://nonton.site:8443/rachman/rachman123/37332 
+# http://hottest.fit:8080/zain/zain123/9613
 
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
