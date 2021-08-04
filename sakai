@@ -150,12 +150,11 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="107" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
 # http://iptv.tvmalaysia.cc:80/139664/139664/6740
 # http://mantul.biz.id:8888/abd/abd/2555 
 # http://l365.in:80/manal/manal/191874
-# http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8 
 # https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536431
 
 
