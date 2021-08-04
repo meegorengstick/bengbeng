@@ -30,9 +30,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 # https://pcccw.github.io/Ark/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
 # http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+# https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3²
-https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TV6" group-title="Malaysian Variety" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
@@ -123,6 +122,9 @@ http://iptv.tvmalaysia.cc:80/penang100/penang100/6730
 # http://mantul.biz.id:8888/abd/abd/1105
 # https://nonton.site:8443/rachman/rachman123/37332 
 # http://hottest.fit:8080/zain/zain123/9613
+# http://iptv.tvmalaysia.cc:80/live/932633/932633/6730.ts
+# http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/737373/737373/6730
 
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
@@ -130,6 +132,9 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6727
 # http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/139664/139664/6727
+# http://iptv.tvmalaysia.cc:80/932633/932633/6727
+# http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8  
+
 
 #EXTINF:-1 tvg-id="106" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -141,6 +146,7 @@ http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/139664/139664/6740
 # http://mantul.biz.id:8888/abd/abd/2555 
 # http://l365.in:80/manal/manal/191874
+# http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="108" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -339,12 +345,14 @@ http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #EXTINF:-1 tvg-id="&FLIXHD" tvg-name="Movies" tvg-logo="https://tinyurl.com/46xbzvdu", group-title="Movies",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+# https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
 #EXTINF:-1 tvg-id="FLIX" tvg-name="Movies" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/flix.png", group-title="Movies",FLIX Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PRIVEHD" tvg-name="Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" group-title="Movies",&PRIVé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+# https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
@@ -432,9 +440,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 group-title="Lifestyle & Knowledge" tvg-id="552" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",Discovery Channel¹
-http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="555" group-title="Lifestyle & Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -453,6 +458,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="508" tvg-id="508" tvg-chno="508" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic HD¹ 
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+# http://iptv.tvmalaysia.cc/932633/932633/7075
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
@@ -470,9 +477,11 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
 
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="509" tvg-id="509" tvg-chno="509" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild HD¹
-#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==natgeowild&b=15&c=natgeowild
-#http://iptvtree.net:8080/Ainamanja/6a4fef36/264871
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+# https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==natgeowild&b=15&c=natgeowild
+# http://iptvtree.net:8080/Ainamanja/6a4fef36/264871
+# http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+# http://iptv.tvmalaysia.cc/932633/932633/7081
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
@@ -604,6 +613,9 @@ https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https:/
 # http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 # https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8 
 # https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+# https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
+# https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://myklik.rtm.gov.my
+# https://rtmSportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="801" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
@@ -661,6 +673,8 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6712
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 # http://45.126.83.51/uq2663/h/h22/02.m3u8
+# http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+# http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-id="821" group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
