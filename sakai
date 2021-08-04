@@ -74,6 +74,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
+#EXTINF:-1 group-title="Malaysian Variety" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah¹
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
@@ -110,6 +113,7 @@ https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8|Referer=https:/
 #EXTINF:-1 tvg-id="123" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
 http://l365.in:80/manal/manal/400200777
 # http://l365.in:80/2673476377/9254684776/400200777 
+# https://iptv.kampung.xyz/ch/live/awesome.m3u8
 
 #EXTINF:-1 tvg-id="611" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
@@ -125,6 +129,7 @@ http://iptv.tvmalaysia.cc:80/penang100/penang100/6730
 # http://iptv.tvmalaysia.cc:80/live/932633/932633/6730.ts
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/737373/737373/6730
+# https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536429
 
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
@@ -134,11 +139,15 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6727
 # http://iptv.tvmalaysia.cc:80/139664/139664/6727
 # http://iptv.tvmalaysia.cc:80/932633/932633/6727
 # http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8  
+# https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536427
+
 
 
 #EXTINF:-1 tvg-id="106" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/139664/139664/6725
+# https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536424
+
 
 #EXTINF:-1 tvg-id="107" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
@@ -147,6 +156,8 @@ http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 # http://mantul.biz.id:8888/abd/abd/2555 
 # http://l365.in:80/manal/manal/191874
 # http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8 
+# https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536431
+
 
 #EXTINF:-1 tvg-id="108" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -155,10 +166,14 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/139664/139664/7267
 # http://mantul.biz.id:8888/abd/abd/195 
 # http://l365.in:80/manal/manal/400200335
+# https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536434
+
 
 #EXTINF:-1 tvg-id="404" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+# https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536442
+
 
 
 #EXTINF:-1 tvg-id="109" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
