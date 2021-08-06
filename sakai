@@ -8,8 +8,8 @@ x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblah
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #EXTINF:-1 tvg-id="101" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1¹
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
-# http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -46,8 +46,8 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="147" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM¹
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQFfVgCDmLKqyOgdidDeZkw)/dm/3/x6qp6ou/s/live-4.m3u8
-# https://github.com/555Z555/music3/raw/main/tv.sabaah.m3u8
+https://github.com/555Z555/music3/raw/main/tv.sabaah.m3u8
+# https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQZ7rMAuIgMVGb5gTNV2L_E)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.comhttps://stream-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
@@ -55,7 +55,7 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQFfVgCDmLKqyOgdid
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 group-title="Chinese Variety" ch-number="108" tvg-id="148" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV¹
-https://github.com/555Z555/music3/raw/main/tv.tsamaaniah.m3u8
+https://github.com/KakLongGarang/hentamsajala/raw/main/8TV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
@@ -104,7 +104,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 
 
 #EXTINF:-1 tvg-id=" " group-title="Malaysian Variety" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
-http://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
+https://github.com/KakLongGarang/hentamsajala/raw/main/DramaSangat.m3u8
 # https://pcccw.github.io/Ark/M3U8/Token/MY/DramaSangat.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="146" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
