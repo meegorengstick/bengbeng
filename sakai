@@ -114,6 +114,7 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_manifest.mpd|Referer=ht
 
 #EXTINF:-1 tvg-id="123" group-title="Malaysian Variety" tvg-logo="https//astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
 https://iptv.kampung.xyz/ch/live/awesome.m3u8
+# http://l365.in/manal/manal/400200777
 
 #EXTINF:-1 tvg-id="611" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
