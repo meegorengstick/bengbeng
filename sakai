@@ -108,8 +108,7 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/DramaSangat.m3u8
 # https://pcccw.github.io/Ark/M3U8/Token/MY/DramaSangat.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="146" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_manifest.mpd|Referer=https://rtmklik.rtm.gov.my
-# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 # https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 
 #EXTINF:-1 tvg-id="611" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
@@ -119,12 +118,12 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
-https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-# http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8  
+http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8  
 # https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536427
 
 #EXTINF:-1 tvg-id="106" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
@@ -140,17 +139,11 @@ http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-# http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
-# http://iptv.tvmalaysia.cc:80/penang100/penang100/7267
-# http://iptv.tvmalaysia.cc:80/139664/139664/7267
-# http://mantul.biz.id:8888/abd/abd/195 
-# http://l365.in:80/manal/manal/400200335
-# https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536434
-
+# http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="404" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo
-http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
-# https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884930
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="109" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
