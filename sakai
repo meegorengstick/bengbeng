@@ -122,8 +122,8 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-# http://iptv.tvmalaysia.cc:80/737373/737373/6730
-https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
+http://iptv.tvmalaysia.cc:80/737373/737373/6730
+# https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
