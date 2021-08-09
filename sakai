@@ -112,9 +112,6 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_manifest.mpd|Referer=ht
 # https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 # https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 
-#EXTINF:-1 tvg-id="123" group-title="Malaysian Variety" tvg-logo="https//astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
-http://l365.in/manal/manal/400200777
-
 #EXTINF:-1 tvg-id="611" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
