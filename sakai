@@ -620,7 +620,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227629/3221227629.mpd
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02_720.m3u8|Referer=https://rtmklik.rtm.gov.my
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+# https://rtmlive02.secureswiftcontent.com/rtmchannel/02_720.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="801" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
 # http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
