@@ -217,6 +217,15 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227516/3221227516.mpd
 #EXTINF:-1 group-title="Chinese/Korean" ch-number="233" tvg-id="233" tvg-chno="233" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png",Now Jelli HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd
 
+#EXTINF:-1 tvg-id="300" group-title="Chinese/Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",iQIYI HD
+http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="306" group-title="Chinese/Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC HD
+http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="311" group-title="Chinese/Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Astro AOD HD
+http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
 #EXTINF:-1 group-title="Chinese/Korean" tvg-id="321" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png",Celestial Classic Movies
