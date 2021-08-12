@@ -239,7 +239,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #EXTINF:-1 group-title="Indian Variety" tvg-id="201" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-#EXTINF:-1 group-title="Indian Variety" tvg-id="251" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",BollyOne HD
+#EXTINF:-1 group-title="Indian Variety" tvg-id="251" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",BollyOne HD
 http://50.7.161.82:8278/streams/d/Bollyone/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
