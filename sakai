@@ -8,7 +8,7 @@ x-tvg-url=https://unifiplaytv.samsam123.tk/epg
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #EXTINF:-1 tvg-id="101" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1¹
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
@@ -88,9 +88,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",HyppInspirasi HD
 http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 
-#EXTINF:-1 tvg-id="501" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="141" tvg-id="141" tvg-chno="141" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
@@ -110,19 +107,23 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/DramaSangat.m3u8
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 # https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 
+#EXTINF:-1 tvg-id="501" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Awani 
+http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
+# https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
 #EXTINF:-1 tvg-id="611" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
-http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
+http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8 
 # http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8  
 # https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536427
 
 #EXTINF:-1 tvg-id="106" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
@@ -160,6 +161,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 
 #EXTINF:-1 tvg-id="702" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+# http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="122" group-title="Malaysian Variety" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
@@ -658,8 +660,14 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37421
 # http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
+#EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network¹
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+
 #EXTINF:-1 tvg-id="821" group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37435
+
+#EXTINF:-1 tvg-id="821" group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network¹
+http://89.187.185.100/WWE/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
@@ -691,10 +699,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 #EXTINF:-1 group-title="Sports" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
 
+#EXTINF:-1 group-title="Sports" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD¹
+http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Sports" ch-number="707" tvg-id="816" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
+
+#EXTINF:-1 group-title="Sports" ch-number="707" tvg-id="816" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD¹
+http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
@@ -740,6 +754,9 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 #EXTINF:-1 tvg-id="396" group-title="Chinese/Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",KPlus H
 http://210.210.155.35/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-id="394" group-title="Chinese/Korean" tvg-logo="https://i.ibb.co/dKXmpGd/ohk.png" group-title="Malaysia",Oh!K HD
+http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
