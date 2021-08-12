@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml
-x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml
+x-tvg-url=https://unifiplaytv.samsam123.tk/epg
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
@@ -13,7 +13,7 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd
 
@@ -23,15 +23,15 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3¹
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8
+# http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 # https://pcccw.github.io/Ark/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
 # http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-# https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 # https://github.com/555Z555/music3/raw/main/tvtsalaasah.m3u8
 
 
@@ -41,16 +41,15 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 # https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="107" tvg-id="147" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
 http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="147" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM¹
-https://github.com/555Z555/music3/raw/main/tv.sabaah.m3u8
-# https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQZ7rMAuIgMVGb5gTNV2L_E)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.comhttps://stream-
+https://github.com/KakLongGarang/hentamsajala/raw/main/NTV7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Chinese/Korean" ch-number="108" tvg-id="148" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
@@ -58,7 +57,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 https://github.com/KakLongGarang/hentamsajala/raw/main/8TV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="109" tvg-id="149" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
@@ -67,12 +66,12 @@ https://github.com/555Z555/music3/raw/main/tv.sittah.m3u8
 # http://50.7.161.82:8278/streams/d/TV9/playlist.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
@@ -80,12 +79,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",HyppInspirasi HD
 http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 
@@ -93,12 +92,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="141" tvg-id="141" tvg-chno="141" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="151" tvg-id="151" tvg-chno="151" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",Laku Mall HD
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 
@@ -166,57 +165,57 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Chinese/Korean" ch-number="232" tvg-id="232" tvg-chno="232" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606511620151r.png",Star Chinese Channel HD
 http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Chinese/Korean" ch-number="233" tvg-id="233" tvg-chno="233" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png",Now Jelli HD
 http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" ch-number="301" tvg-id="301" tvg-chno="301" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",Yupp Thirai HD
 http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" ch-number="311" tvg-id="311" tvg-chno="311" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",Colors Tamil HD
 http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" ch-number="312" tvg-id="312" tvg-chno="312" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png",Polimer
 http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" ch-number="313" tvg-id="313" tvg-chno="313" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",Jaya Max
 http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" tvg-id="331" ch-number="331" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
 http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" tvg-id="333" ch-number="333" tvg-chno="333" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
 http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" ch-number="341" tvg-id="341" tvg-chno="341" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",Colors
 http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" ch-number="342" tvg-id="342" tvg-chno="342" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",Sony SAB
 http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Indian Variety" ch-number="343" tvg-id="343" tvg-chno="343" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png",Sony SET
 http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
 
@@ -282,7 +281,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Movies" ch-number="451" tvg-id="451" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV HD
 http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 
@@ -292,7 +291,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Movies" tvg-id="413" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 
@@ -302,7 +301,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Movies" ch-number="402" tvg-id="415" tvg-chno="402" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm",FOX Action Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
@@ -312,7 +311,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Movies" tvg-id="414" tvg-chno="403" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve",FOX Family Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
@@ -322,12 +321,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Movies" ch-number="408" tvg-id="408" tvg-chno="408" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
 http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Movies" ch-number="411" tvg-id="411" tvg-chno="411" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
 http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
@@ -343,27 +342,27 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 # https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Chinese/Korean" tvg-id="201" ch-number="201" tvg-chno="201" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Chinese/Korean" ch-number="209" tvg-id="209" tvg-chno="209" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png",SETI
 http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Chinese/Korean" ch-number="211" tvg-id="211" tvg-chno="211" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Chinese/Korean" tvg-id="226" ch-number="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png",SCM Legend HD
 http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Chinese/Korean" tvg-id="228" ch-number="228" tvg-chno="228" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064916067nrf.png",SCM HD
 http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
 
@@ -378,7 +377,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Movies" ch-number="128" tvg-id="128" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
@@ -388,7 +387,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Entertainment" ch-number="453" tvg-id="453" tvg-chno="453" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",FOX
 http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
 
@@ -398,7 +397,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Entertainment" ch-number="455" tvg-id="455" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",FOX Life
 http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
 
@@ -413,17 +412,17 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Entertainment" ch-number="454" tvg-id="454" tvg-chno="454" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",FX
 http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Entertainment" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Malaysian Variety
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Entertainment" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",Blue Ant Extreme
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 
@@ -433,7 +432,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="501" tvg-id="501" tvg-chno="501" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
 http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 
@@ -443,7 +442,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202001/20200114/20200114070600169ao8.jpg",Love Nature HD
 http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 
@@ -464,7 +463,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="508" tvg-id="508" tvg-chno="508" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic HD 
 http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 
@@ -474,7 +473,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="511" tvg-id="511" tvg-chno="511" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD
 http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
 
@@ -484,7 +483,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="509" tvg-id="509" tvg-chno="509" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild HD 
 http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
 
@@ -496,52 +495,52 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="512" tvg-id="512" tvg-chno="512" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
 http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="521" tvg-id="521" tvg-chno="521" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png",Travel Channel HD
 http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="529" tvg-id="529" tvg-chno="529" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708075136521klp.png",Luxe.TV HD
 http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="531" tvg-id="531" tvg-chno="531" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV Asia
 http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Kids" ch-number="550" tvg-id="550" tvg-chno="550" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png",Dreamworks HD
 http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Kids" ch-number="552" tvg-id="552" tvg-chno="552" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png",Nick Jr.
 http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Kids" ch-number="553" tvg-id="553" tvg-chno="553" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png",CBeebies HD
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Kids" ch-number="554" tvg-id="554" tvg-chno="554" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",Nickelodeon
 http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Kids" ch-number="555" tvg-id="555" tvg-chno="555" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png",Boomerang HD
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Kids" ch-number="562" tvg-id="562" tvg-chno="562" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/jIqA6LxA",Baby TV HD
 http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 
@@ -565,57 +564,57 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png",BBC World News HD
 http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201910/20191016/20191016083900196xiv.png",Al Jazeera
 http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cqNKlcyp",Sky News HD
 http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="611" tvg-id="611" tvg-chno="611" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080719495046uu.png",Channel NewsAsia
 http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="612" tvg-id="612" tvg-chno="612" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",Euronews
 http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="631" tvg-id="631" tvg-chno="631" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073135741874.png",BNC
 http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="633" tvg-id="633" tvg-chno="633" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png",Parlimen Malaysia
 http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="641" tvg-id="641" tvg-chno="641" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png",ABC Australia
 http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="642" tvg-id="642" tvg-chno="642" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",DW
 http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="643" tvg-id="643" tvg-chno="643" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160704507932rh.png",NHK WORLD-JAPAN
 http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="News" ch-number="652" tvg-id="652" tvg-chno="652" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png",France24
 http://1.9.62.158/PLTV/88888888/224/3221227629/3221227629.mpd
 
@@ -632,94 +631,58 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YdzdQNTRlLTFWYTFZaDdaMnBHS2xXRkFyeGMyQk05bTdoVHU4T1JZWTN6aHlqU1phOURSbmtZZUtNUGpFbnA2UGQ4RG9EZ3dVazhVQ2FPeTA2Y251T2FrSUxGR3NfRDgyQ0YtVFg0bXdYam9EWUJEbjk1ckdPdFg5LW1GbmpWYlMyaENIVXZyak9YT1FScmRUNGFqQVRRSk1VTnJNdFJQS3RsSGlxRzlxbENKM0xQcGhwMnZFbWJ1TkFtVkl1NTB1czA0NG1YZ1BueEVVY1ZMUUdzOWY0NWFIWUpWbFJDb2JndHJLSTZDLUtKaHRsUEFlclZaSW8tTC1fYktqUFpZS0YyZzBkSFFLSFNZRWxwdG9lcWVoYVI2SDNjVWEzYUs2aEVUWWVfRjQ4WUlPQjZWU182bUExNG9vYmhiTF9PanNweHZtbWxqUzJ4MkZ3U2dtRXJEQWEwMkFWOGI1OENQVDFQUV84U2twYWtsR3llUm1OZXhYckJOcWgtNUhCNFRiUkl3RU1kbHFBN3h6V0hwZTBIUDhIU0tCQXBtelR0aWlKdFVreHNmREl0M0tDdFZ0VU45czkxTUVfb0VPbmFIUGp5YWJaUDlsQng3djNuVDAwTTlFdHdkeUhFckhKX00zV2hQZHg2V1dFV0pmYXJsQTdvT2ZnM0FRWHFDeWxiQ0lBPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MzI1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjlmYmZmZDFmX2YyMTNfNDAxNl85YTVhXzExNDJiY2Y0ZGRhZCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3N1A1NGUtMVZhMVloN1oycEdLbFdGQXJ4YzJCTTltN2hUdThPUllZM3poeWpTWmE5RFJua1llS01QakVucDZQZDhEb0Rnd1VrOFVDYU95MDZjbnVPYWtJTEZHc19EODJDRi1UWDRtd1hqb0RZQkRuOTVyR090WDktbUZualZiUzJoQ0hVdnJqT1hPUVJyZFQ0YWpBVFFKTVVOck10UlBLdGxIaXFHOXFsQ0ozTFBwaHAydkVtYnVOQW1WSXU1MHVzMDQ0bVhnUG54RVVjVkxRR3M5ZjQ1YUhZSlZsUkNvYmd0cktJNkMtS0podGxQQWVyVlpJby1MLV9iS2pQWllLRjJnMGRIUUtIU1lFbHB0b2VxZWhhUjZIM2NVYTNhSzZoRVRZZV9GNDhZSU9CNlZTXzZtQTE0b29iaGJMX09qc3B4dm1tbGpTMngyRndTZ21FckRBYTAyQVY4YjU4Q1BUMVBRXzhTa3Bha2xHeWVSbU5leFhyQk5xaC01SEI0VGJSSXdFTWRscUE3eHpXSHBlMEhQOEhTS0JBcG16VHRpaUp0VWt4c2ZESXQzS0N0VnRVTjlzOTFNRV9vRU9uYUhQanlhYlpQOWxCeDd2M25UMDBNOUV0d2R5SEVySEpfTTNXaFBkeDZXV0VXSmZhcmxBN29PZmczQVFYcUN5bGJDSUE9IiwidWRpZCI6ImNkOWJjY2JlLTI4ZjItNGFkNi1iMGI2LTgyODljMjZjNjVmYl93ZWJfd2FyaXNhZ3VuYUBnbWFpbC5jb21fV0VCLTUwNmVlY2E4LTVlY2MtMWQyMC00MWQ1LWU5YzNjZmQyYWEzNSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=%2faWqxRbsfOukDZ79FlfAg%2bkCI4A%3d
-#EXTINF:-1 tvg-id="818" group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png",beIN Sports 1¹
-https://linear02-playback.sooka.my/CH5/masterCH5.mpd
-
 #EXTINF:-1 tvg-id="819" group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png",beIN Sports 2
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37433
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YdzdQNTRlLTFWYTFZaDdaMnBHS2xXRkFyeGMyQk05bTdoVHU4T1JZWTN6aHlqU1phOURSbmtZZUtNUGpFbnA2UGQ4RG9EZ3dVazhVQ2FPeTA2Y251T2FrSUxGR3NfRDgyQ0YtVFg0bXdYam9EWUJEbjk1ckdPdFg5LW1GbmpWYlMyaENIVXZyak9YT1FScmRUNGFqQVRRSk1VTnJNdFJQS3RsSGlxRzlxbENKM0xQcGhwMnZFbWJ1TkFtVkl1NTB1czA0NG1YZ1BueEVVY1ZMUUdzOWY0NWFIWUpWbFJDb2JndHJLSTZDLUtKaHRsUEFlclZaSW8tTC1fYktqUFpZS0YyZzBkSFFLSFNZRWxwdG9lcWVoYVI2SDNjVWEzYUs2aEVUWWVfRjQ4WUlPQjZWU182bUExNG9vYmhiTF9PanNweHZtbWxqUzJ4MkZ3U2dtRXJEQWEwMkFWOGI1OENQVDFQUV84U2twYWtsR3llUm1OZXhYckJOcWgtNUhCNFRiUkl3RU1kbHFBN3h6V0hwZTBIUDhIU0tCQXBtelR0aWlKdFVreHNmREl0M0tDdFZ0VU45czkxTUVfb0VPbmFIUGp5YWJaUDlsQng3djNuVDAwTTlFdHdkeUhFckhKX00zV2hQZHg2V1dFV0pmYXJsQTdvT2ZnM0FRWHFDeWxiQ0lBPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MzQ0IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImU1NTg0Y2ZmX2Q2MTVfNDkxM185N2I4X2NkZWQ1ZTY3OWMxOSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3N1A1NGUtMVZhMVloN1oycEdLbFdGQXJ4YzJCTTltN2hUdThPUllZM3poeWpTWmE5RFJua1llS01QakVucDZQZDhEb0Rnd1VrOFVDYU95MDZjbnVPYWtJTEZHc19EODJDRi1UWDRtd1hqb0RZQkRuOTVyR090WDktbUZualZiUzJoQ0hVdnJqT1hPUVJyZFQ0YWpBVFFKTVVOck10UlBLdGxIaXFHOXFsQ0ozTFBwaHAydkVtYnVOQW1WSXU1MHVzMDQ0bVhnUG54RVVjVkxRR3M5ZjQ1YUhZSlZsUkNvYmd0cktJNkMtS0podGxQQWVyVlpJby1MLV9iS2pQWllLRjJnMGRIUUtIU1lFbHB0b2VxZWhhUjZIM2NVYTNhSzZoRVRZZV9GNDhZSU9CNlZTXzZtQTE0b29iaGJMX09qc3B4dm1tbGpTMngyRndTZ21FckRBYTAyQVY4YjU4Q1BUMVBRXzhTa3Bha2xHeWVSbU5leFhyQk5xaC01SEI0VGJSSXdFTWRscUE3eHpXSHBlMEhQOEhTS0JBcG16VHRpaUp0VWt4c2ZESXQzS0N0VnRVTjlzOTFNRV9vRU9uYUhQanlhYlpQOWxCeDd2M25UMDBNOUV0d2R5SEVySEpfTTNXaFBkeDZXV0VXSmZhcmxBN29PZmczQVFYcUN5bGJDSUE9IiwidWRpZCI6ImNkOWJjY2JlLTI4ZjItNGFkNi1iMGI2LTgyODljMjZjNjVmYl93ZWJfd2FyaXNhZ3VuYUBnbWFpbC5jb21fV0VCLTUwNmVlY2E4LTVlY2MtMWQyMC00MWQ1LWU5YzNjZmQyYWEzNSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=ueSYrmvEhQSAYzRMlHGJF92SdI8%3d
-#EXTINF:-1 tvg-id="819" group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png",beIN Sports 2¹
-https://linear03-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YdzdQNTRlLTFWYTFZaDdaMnBHS2xXRkFyeGMyQk05bTdoVHU4T1JZWTN6aHlqU1phOURSbmtZZUtNUGpFbnA2UGQ4RG9EZ3dVazhVQ2FPeTA2Y251T2FrSUxGR3NfRDgyQ0YtVFg0bXdYam9EWUJEbjk1ckdPdFg5LW1GbmpWYlMyaENIVXZyak9YT1FScmRUNGFqQVRRSk1VTnJNdFJQS3RsSGlxRzlxbENKM0xQcGhwMnZFbWJ1TkFtVkl1NTB1czA0NG1YZ1BueEVVY1ZMUUdzOWY0NWFIWUpWbFJDb2JndHJLSTZDLUtKaHRsUEFlclZaSW8tTC1fYktqUFpZS0YyZzBkSFFLSFNZRWxwdG9lcWVoYVI2SDNjVWEzYUs2aEVUWWVfRjQ4WUlPQjZWU182bUExNG9vYmhiTF9PanNweHZtbWxqUzJ4MkZ3U2dtRXJEQWEwMkFWOGI1OENQVDFQUV84U2twYWtsR3llUm1OZXhYckJOcWgtNUhCNFRiUkl3RU1kbHFBN3h6V0hwZTBIUDhIU0tCQXBtelR0aWlKdFVreHNmREl0M0tDdFZ0VU45czkxTUVfb0VPbmFIUGp5YWJaUDlsQng3djNuVDAwTTlFdHdkeUhFckhKX00zV2hQZHg2V1dFV0pmYXJsQTdvT2ZnM0FRWHFDeWxiQ0lBPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTQ1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImIzY2NmNzNhXzdhNjZfNGY4NV9hZTc0XzExMzY3ZmZiMmZhNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3N1A1NGUtMVZhMVloN1oycEdLbFdGQXJ4YzJCTTltN2hUdThPUllZM3poeWpTWmE5RFJua1llS01QakVucDZQZDhEb0Rnd1VrOFVDYU95MDZjbnVPYWtJTEZHc19EODJDRi1UWDRtd1hqb0RZQkRuOTVyR090WDktbUZualZiUzJoQ0hVdnJqT1hPUVJyZFQ0YWpBVFFKTVVOck10UlBLdGxIaXFHOXFsQ0ozTFBwaHAydkVtYnVOQW1WSXU1MHVzMDQ0bVhnUG54RVVjVkxRR3M5ZjQ1YUhZSlZsUkNvYmd0cktJNkMtS0podGxQQWVyVlpJby1MLV9iS2pQWllLRjJnMGRIUUtIU1lFbHB0b2VxZWhhUjZIM2NVYTNhSzZoRVRZZV9GNDhZSU9CNlZTXzZtQTE0b29iaGJMX09qc3B4dm1tbGpTMngyRndTZ21FckRBYTAyQVY4YjU4Q1BUMVBRXzhTa3Bha2xHeWVSbU5leFhyQk5xaC01SEI0VGJSSXdFTWRscUE3eHpXSHBlMEhQOEhTS0JBcG16VHRpaUp0VWt4c2ZESXQzS0N0VnRVTjlzOTFNRV9vRU9uYUhQanlhYlpQOWxCeDd2M25UMDBNOUV0d2R5SEVySEpfTTNXaFBkeDZXV0VXSmZhcmxBN29PZmczQVFYcUN5bGJDSUE9IiwidWRpZCI6ImNkOWJjY2JlLTI4ZjItNGFkNi1iMGI2LTgyODljMjZjNjVmYl93ZWJfd2FyaXNhZ3VuYUBnbWFpbC5jb21fV0VCLTUwNmVlY2E4LTVlY2MtMWQyMC00MWQ1LWU5YzNjZmQyYWEzNSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=NTkdL3LTy4Hz5bzvwuHprrRbh5E%3d
-#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1¹
-https://linear01-playback.sooka.my/CH1/masterCH1.mpd
- 
 #EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YdzdQNTRlLTFWYTFZaDdaMnBHS2xXRkFyeGMyQk05bTdoVHU4T1JZWTN6aHlqU1phOURSbmtZZUtNUGpFbnA2UGQ4RG9EZ3dVazhVQ2FPeTA2Y251T2FrSUxGR3NfRDgyQ0YtVFg0bXdYam9EWUJEbjk1ckdPdFg5LW1GbmpWYlMyaENIVXZyak9YT1FScmRUNGFqQVRRSk1VTnJNdFJQS3RsSGlxRzlxbENKM0xQcGhwMnZFbWJ1TkFtVkl1NTB1czA0NG1YZ1BueEVVY1ZMUUdzOWY0NWFIWUpWbFJDb2JndHJLSTZDLUtKaHRsUEFlclZaSW8tTC1fYktqUFpZS0YyZzBkSFFLSFNZRWxwdG9lcWVoYVI2SDNjVWEzYUs2aEVUWWVfRjQ4WUlPQjZWU182bUExNG9vYmhiTF9PanNweHZtbWxqUzJ4MkZ3U2dtRXJEQWEwMkFWOGI1OENQVDFQUV84U2twYWtsR3llUm1OZXhYckJOcWgtNUhCNFRiUkl3RU1kbHFBN3h6V0hwZTBIUDhIU0tCQXBtelR0aWlKdFVreHNmREl0M0tDdFZ0VU45czkxTUVfb0VPbmFIUGp5YWJaUDlsQng3djNuVDAwTTlFdHdkeUhFckhKX00zV2hQZHg2V1dFV0pmYXJsQTdvT2ZnM0FRWHFDeWxiQ0lBPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MjMyIiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjhmMWRhMzk5XzMyNTJfNDdlY19hNmFjX2RkN2JhZmI5NWZhMiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3N1A1NGUtMVZhMVloN1oycEdLbFdGQXJ4YzJCTTltN2hUdThPUllZM3poeWpTWmE5RFJua1llS01QakVucDZQZDhEb0Rnd1VrOFVDYU95MDZjbnVPYWtJTEZHc19EODJDRi1UWDRtd1hqb0RZQkRuOTVyR090WDktbUZualZiUzJoQ0hVdnJqT1hPUVJyZFQ0YWpBVFFKTVVOck10UlBLdGxIaXFHOXFsQ0ozTFBwaHAydkVtYnVOQW1WSXU1MHVzMDQ0bVhnUG54RVVjVkxRR3M5ZjQ1YUhZSlZsUkNvYmd0cktJNkMtS0podGxQQWVyVlpJby1MLV9iS2pQWllLRjJnMGRIUUtIU1lFbHB0b2VxZWhhUjZIM2NVYTNhSzZoRVRZZV9GNDhZSU9CNlZTXzZtQTE0b29iaGJMX09qc3B4dm1tbGpTMngyRndTZ21FckRBYTAyQVY4YjU4Q1BUMVBRXzhTa3Bha2xHeWVSbU5leFhyQk5xaC01SEI0VGJSSXdFTWRscUE3eHpXSHBlMEhQOEhTS0JBcG16VHRpaUp0VWt4c2ZESXQzS0N0VnRVTjlzOTFNRV9vRU9uYUhQanlhYlpQOWxCeDd2M25UMDBNOUV0d2R5SEVySEpfTTNXaFBkeDZXV0VXSmZhcmxBN29PZmczQVFYcUN5bGJDSUE9IiwidWRpZCI6ImNkOWJjY2JlLTI4ZjItNGFkNi1iMGI2LTgyODljMjZjNjVmYl93ZWJfd2FyaXNhZ3VuYUBnbWFpbC5jb21fV0VCLTUwNmVlY2E4LTVlY2MtMWQyMC00MWQ1LWU5YzNjZmQyYWEzNSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=xJ2e%2f1OWlbmfC30t2Y19E2EPwTY%3d
-#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2¹
-https://linear01-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YdzdQNTRlLTFWYTFZaDdaMnBHS2xXRkFyeGMyQk05bTdoVHU4T1JZWTN6aHlqU1phOURSbmtZZUtNUGpFbnA2UGQ4RG9EZ3dVazhVQ2FPeTA2Y251T2FrSUxGR3NfRDgyQ0YtVFg0bXdYam9EWUJEbjk1ckdPdFg5LW1GbmpWYlMyaENIVXZyak9YT1FScmRUNGFqQVRRSk1VTnJNdFJQS3RsSGlxRzlxbENKM0xQcGhwMnZFbWJ1TkFtVkl1NTB1czA0NG1YZ1BueEVVY1ZMUUdzOWY0NWFIWUpWbFJDb2JndHJLSTZDLUtKaHRsUEFlclZaSW8tTC1fYktqUFpZS0YyZzBkSFFLSFNZRWxwdG9lcWVoYVI2SDNjVWEzYUs2aEVUWWVfRjQ4WUlPQjZWU182bUExNG9vYmhiTF9PanNweHZtbWxqUzJ4MkZ3U2dtRXJEQWEwMkFWOGI1OENQVDFQUV84U2twYWtsR3llUm1OZXhYckJOcWgtNUhCNFRiUkl3RU1kbHFBN3h6V0hwZTBIUDhIU0tCQXBtelR0aWlKdFVreHNmREl0M0tDdFZ0VU45czkxTUVfb0VPbmFIUGp5YWJaUDlsQng3djNuVDAwTTlFdHdkeUhFckhKX00zV2hQZHg2V1dFV0pmYXJsQTdvT2ZnM0FRWHFDeWxiQ0lBPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MzAyIiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjBkNmQyYTFhX2M4ZDFfNGUxOV9iMTc0XzU1NjUwNzcwY2Q5OSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3N1A1NGUtMVZhMVloN1oycEdLbFdGQXJ4YzJCTTltN2hUdThPUllZM3poeWpTWmE5RFJua1llS01QakVucDZQZDhEb0Rnd1VrOFVDYU95MDZjbnVPYWtJTEZHc19EODJDRi1UWDRtd1hqb0RZQkRuOTVyR090WDktbUZualZiUzJoQ0hVdnJqT1hPUVJyZFQ0YWpBVFFKTVVOck10UlBLdGxIaXFHOXFsQ0ozTFBwaHAydkVtYnVOQW1WSXU1MHVzMDQ0bVhnUG54RVVjVkxRR3M5ZjQ1YUhZSlZsUkNvYmd0cktJNkMtS0podGxQQWVyVlpJby1MLV9iS2pQWllLRjJnMGRIUUtIU1lFbHB0b2VxZWhhUjZIM2NVYTNhSzZoRVRZZV9GNDhZSU9CNlZTXzZtQTE0b29iaGJMX09qc3B4dm1tbGpTMngyRndTZ21FckRBYTAyQVY4YjU4Q1BUMVBRXzhTa3Bha2xHeWVSbU5leFhyQk5xaC01SEI0VGJSSXdFTWRscUE3eHpXSHBlMEhQOEhTS0JBcG16VHRpaUp0VWt4c2ZESXQzS0N0VnRVTjlzOTFNRV9vRU9uYUhQanlhYlpQOWxCeDd2M25UMDBNOUV0d2R5SEVySEpfTTNXaFBkeDZXV0VXSmZhcmxBN29PZmczQVFYcUN5bGJDSUE9IiwidWRpZCI6ImNkOWJjY2JlLTI4ZjItNGFkNi1iMGI2LTgyODljMjZjNjVmYl93ZWJfd2FyaXNhZ3VuYUBnbWFpbC5jb21fV0VCLTUwNmVlY2E4LTVlY2MtMWQyMC00MWQ1LWU5YzNjZmQyYWEzNSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=%2fCn2XFDCi0QPG856LuvOXz3ZajI%3d
-#EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3¹
-https://linear01-playback.sooka.my/CH5/masterCH5.mpd
-
 #EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YdzdQNTRlLTFWYTFZaDdaMnBHS2xXRkFyeGMyQk05bTdoVHU4T1JZWTN6aHlqU1phOURSbmtZZUtNUGpFbnA2UGQ4RG9EZ3dVazhVQ2FPeTA2Y251T2FrSUxGR3NfRDgyQ0YtVFg0bXdYam9EWUJEbjk1ckdPdFg5LW1GbmpWYlMyaENIVXZyak9YT1FScmRUNGFqQVRRSk1VTnJNdFJQS3RsSGlxRzlxbENKM0xQcGhwMnZFbWJ1TkFtVkl1NTB1czA0NG1YZ1BueEVVY1ZMUUdzOWY0NWFIWUpWbFJDb2JndHJLSTZDLUtKaHRsUEFlclZaSW8tTC1fYktqUFpZS0YyZzBkSFFLSFNZRWxwdG9lcWVoYVI2SDNjVWEzYUs2aEVUWWVfRjQ4WUlPQjZWU182bUExNG9vYmhiTF9PanNweHZtbWxqUzJ4MkZ3U2dtRXJEQWEwMkFWOGI1OENQVDFQUV84U2twYWtsR3llUm1OZXhYckJOcWgtNUhCNFRiUkl3RU1kbHFBN3h6V0hwZTBIUDhIU0tCQXBtelR0aWlKdFVreHNmREl0M0tDdFZ0VU45czkxTUVfb0VPbmFIUGp5YWJaUDlsQng3djNuVDAwTTlFdHdkeUhFckhKX00zV2hQZHg2V1dFV0pmYXJsQTdvT2ZnM0FRWHFDeWxiQ0lBPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MzA0IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjFiNWU1MTU2XzM4ZGVfNDI0M19iNmJhXzQ5ODQzZDBiZTc2MyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3N1A1NGUtMVZhMVloN1oycEdLbFdGQXJ4YzJCTTltN2hUdThPUllZM3poeWpTWmE5RFJua1llS01QakVucDZQZDhEb0Rnd1VrOFVDYU95MDZjbnVPYWtJTEZHc19EODJDRi1UWDRtd1hqb0RZQkRuOTVyR090WDktbUZualZiUzJoQ0hVdnJqT1hPUVJyZFQ0YWpBVFFKTVVOck10UlBLdGxIaXFHOXFsQ0ozTFBwaHAydkVtYnVOQW1WSXU1MHVzMDQ0bVhnUG54RVVjVkxRR3M5ZjQ1YUhZSlZsUkNvYmd0cktJNkMtS0podGxQQWVyVlpJby1MLV9iS2pQWllLRjJnMGRIUUtIU1lFbHB0b2VxZWhhUjZIM2NVYTNhSzZoRVRZZV9GNDhZSU9CNlZTXzZtQTE0b29iaGJMX09qc3B4dm1tbGpTMngyRndTZ21FckRBYTAyQVY4YjU4Q1BUMVBRXzhTa3Bha2xHeWVSbU5leFhyQk5xaC01SEI0VGJSSXdFTWRscUE3eHpXSHBlMEhQOEhTS0JBcG16VHRpaUp0VWt4c2ZESXQzS0N0VnRVTjlzOTFNRV9vRU9uYUhQanlhYlpQOWxCeDd2M25UMDBNOUV0d2R5SEVySEpfTTNXaFBkeDZXV0VXSmZhcmxBN29PZmczQVFYcUN5bGJDSUE9IiwidWRpZCI6ImNkOWJjY2JlLTI4ZjItNGFkNi1iMGI2LTgyODljMjZjNjVmYl93ZWJfd2FyaXNhZ3VuYUBnbWFpbC5jb21fV0VCLTUwNmVlY2E4LTVlY2MtMWQyMC00MWQ1LWU5YzNjZmQyYWEzNSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=YM84TsFdS%2fB7XYDKiTcviS1pfRo%3d
-#EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4¹
-https://linear02-playback.sooka.my/CH1/masterCH1.mpd
-
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37421
 # http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
-
-#EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",eGG Network¹
-# http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeEJXSGFTRUh6dHZidEk5M2FBZEdyMFZLcEc3ZTBsSGxNSVRRM2NWcndSZ1pKQktPSmZoNndkWWFpcGRJY0lRNE1tSlFSVzZzY3o2VjFMR09ldkplMUQ4T0RrZFVORWljODcxcXlGdlBkdTRKdmVXeFc2eHE4WVVWSF9ncUd5MFFPNVhRa25LR1I1ZUlKMWhYLU5NYmZ6QVcwNjRqOWF5Sm9jZHc1NTJyVzZsQzR2NmJNUzRsb1JSOWY3YWVGNTllaEZQYm5kN2JydkRvTUtaUURpR3dzS2VicVF0c1hCZUVUd3FhTmxhMHNRbUJvNUI3YTZJQk9sREZiN0dPQVBScmhFUmlOdVBRcHRxaUFRVDBxZ3l3RHd4VVZBekhNUGRKWXRteGktWld3UmE2SDN6Wkh2cE16NjN0enhuMzJKMkV3aWs2aTZBQlloT1RsNXBDcHNqQjlQYjFZQjh6d1J4VDRIN25qV296UTdaRzFrTFpIMFNYcGlCZllnZEg1b3kwYk9iV055SVBHVHNKY2tOTTkxb3FzSFR1ZGEySHNDUkdORmw3akdoSFVwYjdoMzM3YWVVVlpuay1MVzBGV01KY1VBekItV3FEeEdQSDBzZHZNRnpINlRZZ2xRamtSRTAzOTl2UnNmVU92Smw0ZElreG1VbWF2N0NHakpRWmh6NGZsSlhIX2Y4RTlyN0c2S1pSVWhVeFQtdlhweEhHNXFDcGNfRTVoem1VMGNFQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNDciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYmRhN2Y3NGJfODQyZl80ZjBlX2IxNDJfMzk1ZGFkZDkxZjA3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHhCV0hhU0VIenR2YnRJOTNhQWRHcjBWS3BHN2UwbEhsTUlUUTNjVnJ3UmdaSkJLT0pmaDZ3ZFlhaXBkSWNJUTRNbUpRUlc2c2N6NlYxTEdPZXZKZTFEOE9Ea2RVTkVpYzg3MXF5RnZQZHU0SnZlV3hXNnhxOFlVVkhfZ3FHeTBRTzVYUWtuS0dSNWVJSjFoWC1OTWJmekFXMDY0ajlheUpvY2R3NTUyclc2bEM0djZiTVM0bG9SUjlmN2FlRjU5ZWhGUGJuZDdicnZEb01LWlFEaUd3c0tlYnFRdHNYQmVFVHdxYU5sYTBzUW1CbzVCN2E2SUJPbERGYjdHT0FQUnJoRVJpTnVQUXB0cWlBUVQwcWd5d0R3eFVWQXpITVBkSll0bXhpLVpXd1JhNkgzelpIdnBNejYzdHp4bjMySjJFd2lrNmk2QUJZaE9UbDVwQ3BzakI5UGIxWUI4endSeFQ0SDdualdvelE3Wkcxa0xaSDBTWHBpQmZZZ2RINW95MGJPYldOeUlQR1RzSmNrTk05MW9xc0hUdWRhMkhzQ1JHTkZsN2pHaEhVcGI3aDMzN2FlVVZabmstTFcwRldNSmNVQXpCLVdxRHhHUEgwc2R2TUZ6SDZUWWdsUWprUkUwMzk5dlJzZlVPdkpsNGRJa3htVW1hdjdDR2pKUVpoejRmbEpYSF9mOEU5cjdHNktaUlVoVXhULXZYcHhIRzVxQ3BjX0U1aHptVTBjRUE9PSIsInVkaWQiOiI1ZGNjMDRkNy01NzI2LTRlMTctOWVkYy1lNGVlYzY2ZmE5OTNfd2ViX21hbGF5c2lhZngyQGdtYWlsLmNvbV9XRUItYWVhZTRmNGItODFkYi1iMDVhLWEwYWQtOGNkYzM5ZGI1MzNkIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3d%3d&signature=zJjdZ6it3l6EgXduJYyAbN4WKVw%3d&sessionId=582b80ef-87af-f669-520c-4a82df63aa48:1353a29e-7b7f-98fc-79df-ed2e7ba8a46d&clientTag=html5:v1.11.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1sb2wtcGNzLS13ZWVrLTUtZGF5LTEvMTA5NDQ4OS9wbGF5ZXI/bGluZWFySWQ9MTAwMDUwMDEzJmlzTGl2ZT10cnVl
-https://linear01-playback.sooka.my/CH2/masterCH2.mpd
 
 #EXTINF:-1 tvg-id="821" group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37435
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Sports" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709180917156kdl.png",unifi Sports 1 HD
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Sports" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/202107091805315962ck.png",unifi Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Sports" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709052952183il3.png",unifi Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Sports" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png",unifi Sports 4 HD
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Sports" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png",unifi Sports 5 HD
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
@@ -729,12 +692,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Sports" ch-number="707" tvg-id="816" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGRmYTY1ZjYtNjIzOS0zOTQ5LWIwYzctYmQ5Y2YxYmNhNjA2
 #EXTINF:-1 group-title="Sports" ch-number="708" tvg-id="817" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
