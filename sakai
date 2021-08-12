@@ -299,11 +299,11 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227538/3221227538.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227541/3221227541.mpd
 
 #EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
-# https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 # https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 # https://mediahomes.github.io/assets/hbogo/hbo.m3u8
 # http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+# https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
@@ -311,9 +311,9 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #EXTINF:-1 tvg-id="HBOHitsHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
-# https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 # http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+# https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
@@ -321,9 +321,9 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTINF:-1 tvg-id="HBOFamilyHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
-# https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 # https://mediahomes.github.io/assets/hbogo/family.m3u8
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+# https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
@@ -331,9 +331,9 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #EXTINF:-1 tvg-id="HBOSignatureHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature
-# https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 # https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
@@ -341,9 +341,9 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTINF:-1 tvg-id="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
-# https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 # https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
-https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+# https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
