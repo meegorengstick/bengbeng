@@ -296,6 +296,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227538/3221227538.mpd
 #EXTINF:-1 group-title="Indian Variety" ch-number="343" tvg-id="343" tvg-chno="343" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png",Sony SET
 https://web.hypp.tv:443/PLTV/88888888/224/3221227541/3221227541.mpd
 
+#EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+# https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+# https://mediahomes.github.io/assets/hbogo/hbo.m3u8
+# http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+# https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-id="411" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Movies", HBO¹
