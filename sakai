@@ -112,9 +112,11 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227560/3221227560.mpd
 https://github.com/KakLongGarang/hentamsajala/raw/main/DramaSangat.m3u8
 # https://pcccw.github.io/Ark/M3U8/Token/MY/DramaSangat.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="146" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-# https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-id="146" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
+# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+# https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8
 
 #EXTINF:-1 tvg-id="501" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Awani 
 http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
