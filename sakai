@@ -518,6 +518,9 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
+#EXTINF:-1 tvg-id="555" group-title="Lifestyle & Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History¹
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/8131
+
 #EXTINF:-1 tvg-id="Crime&InvestigationHD" group-title="Lifestyle & Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -833,7 +836,8 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227634/3221227634.mpd
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-id="705" group-title="Chinese/Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX¹
-http://45.126.83.51/dr9445/h/h07/01.m3u8
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/37408
+# http://45.126.83.51/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-id="393" group-title="Chinese/Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
