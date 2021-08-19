@@ -268,13 +268,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227551/3221227551.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGI2MDQwODctOWMyZS0zMGIzLTk0NTYtYjNiNGU2NjU5YjFh
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Movies" tvg-id="331" ch-number="331" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
+#EXTINF:-1 group-title="Indian Variety" tvg-id="331" ch-number="331" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
 https://web.hypp.tv:443/PLTV/88888888/224/3221227498/3221227498.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGI2MDQwODctOWMyZS0zMGIzLTk0NTYtYjNiNGU2NjU5YjFh
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Movies" tvg-id="333" ch-number="333" tvg-chno="333" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
+#EXTINF:-1 group-title="Indian Variety" tvg-id="333" ch-number="333" tvg-chno="333" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
 https://web.hypp.tv:443/PLTV/88888888/224/3221227501/3221227501.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
