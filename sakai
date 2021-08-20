@@ -37,6 +37,10 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8
 #EXTINF:-1 tvg-id="TV6" group-title="Malaysian Variety" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
+EXTINF:-1 tvg-id="123" group-title="Malaysian Variety" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV
+# http://iptv.tvmalaysia.cc:80/live/jalan8/jalan8/9016.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ZTliZjFmMDktMmUzNS0zMzliLWIyMzctMjBlZmNmNTI4NDk3
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
