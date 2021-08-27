@@ -41,6 +41,9 @@ https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 # http://iptv.tvmalaysia.cc:80/live/jalan8/jalan8/9016.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
 
+#EXTINF:-1  tvg-id="TVIKIM" group-title="Malaysian Variety" tvg-logo="https://i.imgur.com/PcPDrl9.png?v=1.1.1.1",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ZTliZjFmMDktMmUzNS0zMzliLWIyMzctMjBlZmNmNTI4NDk3
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
@@ -492,8 +495,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 # https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="Movies",ZEE CINEMA
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies",Sony Pix HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+
+#EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="Movies",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -776,7 +782,7 @@ https://nonton.site:8443/Ainamanja/RPLf79Gusm/37433
 https://linear03-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+http://clientportal.link:80/MatiasBoegli/dHUk2O435/23453
 # http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
@@ -787,7 +793,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
 https://linear01-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
+http://clientportal.link:80/MatiasBoegli/dHUk2O435/23452
 # http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
@@ -798,7 +804,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
 https://linear01-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
+http://clientportal.link:80/MatiasBoegli/dHUk2O435 /23451
 # http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
@@ -809,7 +815,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
 https://linear01-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
+http://clientportal.link:80/MatiasBoegli/dHUk2O435/33973
 # http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
@@ -893,12 +899,6 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/174235.ts
 
 #EXTINF:-1tvg-id="" tvg-name="https://i.imgur.com/K3AtFDD.png" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",BT SPORTS 2
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/174237.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies",Sony Pix HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-
-#EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="Movies",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
