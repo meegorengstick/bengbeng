@@ -700,6 +700,11 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #EXTINF:-1 tvg-id="615" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network¹
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
+#EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ZTliZjFmMDktMmUzNS0zMzliLWIyMzctMjBlZmNmNTI4NDk3
 #EXTINF:-1 group-title="News" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png",BBC World News HD
@@ -788,7 +793,6 @@ https://linear01-playback.sooka.my/CH4/masterCH4.mpd
 #EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
 https://linear01-playback.sooka.my/CH5/masterCH5.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd29IbHVyWUJTcVp3eWpFN2J6RjEtN3BqbjNFVHpCVngyOGFsNG9GSXdxeGhsT3hxOVF6cGJsZHlEVHlhbTZXbEFsdjgwZnB0SkF0UmFDQzd1M0RveHZMR0pMUnRuVzFwMG9vNF9ndkVCLUI4R2RLV1VlV0FqNXF4MHVqSUFBY3hndFRrZU4xYnNtT2huS0VXU2dVcnM3SWlzMXRGRXZDQXJqLVhwTEVGT2NuWnByVGQxUFVXZ2ZLR1hmaEdIQTI4a2VxUmxYcDZBOXlMUmZqaC00M1B4aTVNbUFFeWlyalB4TGprZkt4RW1hbXJsNUVxNWF4ODQ5UXZ2eGpjOU4xQVBhdXFncXFOVlVXSHMwb01mQ2Vhd0ZPZnNfTExoWnN3Tm1ZaG4xRmlYM0RwLWZLUTgxZ1Badk93SE44NExORXdBZjM3VGlOTWxPWC11MlVBZE9ESDI4SjFwdWhsMTVfZE5SOFA3MzFtVXhkVU8zS3JXZDh0TXNkWUNabHo1eEcxS0VtdlVkY1EwTEpZVFJFeElnei1tS0pUTGJLWDRHa2hsM2lGVS1LS2p6Y3RfcmJONDhTVkxwUjFTcWxwd2FBM1QzS2FUYU93V0lkTlhSQ3gwSDVXcEVVRXNNclZWSTA3ampmSXEtRy0yeDBmQ3dxQzhDZS0wcmh3VXVYRGVTc2I2VktvYTQwUFVDbGJMNFNxWlNKMEMzJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMDQiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMWI1ZTUxNTZfMzhkZV80MjQzX2I2YmFfNDk4NDNkMGJlNzYzIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHdvSGx1cllCU3Fad3lqRTdiekYxLTdwam4zRVR6QlZ4MjhhbDRvRkl3cXhobE94cTlRenBibGR5RFR5YW02V2xBbHY4MGZwdEpBdFJhQ0M3dTNEb3h2TEdKTFJ0blcxcDBvbzRfZ3ZFQi1COEdkS1dVZVdBajVxeDB1aklBQWN4Z3RUa2VOMWJzbU9obktFV1NnVXJzN0lpczF0RkV2Q0Fyai1YcExFRk9jblpwclRkMVBVV2dmS0dYZmhHSEEyOGtlcVJsWHA2QTl5TFJmamgtNDNQeGk1TW1BRXlpcmpQeExqa2ZLeEVtYW1ybDVFcTVheDg0OVF2dnhqYzlOMUFQYXVxZ3FxTlZVV0hzMG9NZkNlYXdGT2ZzX0xMaFpzd05tWWhuMUZpWDNEcC1mS1E4MWdQWnZPd0hOODRMTkV3QWYzN1RpTk1sT1gtdTJVQWRPREgyOEoxcHVobDE1X2ROUjhQNzMxbVV4ZFVPM0tyV2Q4dE1zZFlDWmx6NXhHMUtFbXZVZGNRMExKWVRSRXhJZ3otbUtKVExiS1g0R2tobDNpRlUtS0tqemN0X3JiTjQ4U1ZMcFIxU3FscHdhQTNUM0thVGFPd1dJZE5YUkN4MEg1V3BFVUVzTXJWVkkwN2pqZklxLUctMngwZkN3cUM4Q2UtMHJod1V1WERlU3NiNlZLb2E0MFBVQ2xiTDRTcVpTSjBDMyIsInVkaWQiOiI0Y2FiNWQzNC0xNjg0LTRhNDQtYjlhZi0xOTM4NDM2ZThkZTRfd2ViX2l6YWQuYWxhbkBnbWFpbC5jb21fV0VCLTM3OGI5OTVlLWFiNzQtY2VmOS0wYWQ2LWE4MDU0YjZjOWQ2YSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=Ib4p4AkMZdpJBWv5H2D8dGYRutY%3d
 #EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
@@ -868,8 +872,3 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/174235.ts
 
 #EXTINF:-1tvg-id="" tvg-name="https://i.imgur.com/K3AtFDD.png" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",BT SPORTS 2
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/174237.ts
-
-#EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
