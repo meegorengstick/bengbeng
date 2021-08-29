@@ -460,7 +460,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=hhttp://1.9.58.113:8063?deviceId=ZTliZjFmMDktMmUzNS0zMzliLWIyMzctMjBlZmNmNTI4NDk3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ZTliZjFmMDktMmUzNS0zMzliLWIyMzctMjBlZmNmNTI4NDk3
 #EXTINF:-1 group-title="Movies" ch-number="402" tvg-id="402" tvg-chno="402" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm",FOX Action Movies HD¹
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
