@@ -99,7 +99,8 @@ http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #backup-http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 
 #EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria¹
-http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1705
+#backup-http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
 http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8 
