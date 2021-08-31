@@ -83,7 +83,7 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/DramaSangat.m3u8
 
 #EXTINF:-1 tvg-id="146" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="501" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Awani 
 http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
@@ -95,33 +95,32 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#backup-http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
+
 #backup-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #backup-http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 
 #EXTINF:-1 tvg-id="104" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria¹
-http://ottboxnet.com:8000/Fernando/Fernando/37572
+http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
 http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8 
-#backup-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#backup-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima¹
-http://ottboxnet.com:8000/Fernando/Fernando/37569
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="106" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1 tvg-id="106" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis¹
-http://ottboxnet.com:8000/Fernando/Fernando/37601
+
 
 #EXTINF:-1 tvg-id="107" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna
 http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
-#backup-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="107" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna¹
-http://ottboxnet.com:8000/Fernando/Fernando/37595
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
