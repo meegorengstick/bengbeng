@@ -881,3 +881,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="Sports" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD¹
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="Sports",BT Sport 1
+http://iptv.tvmalaysia.cc:80/penang123/penang123/6610
+
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="Sports",BT Sport 2
+http://iptv.tvmalaysia.cc:80/penang123/penang123/6611
+
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="Sports",BT Sport 3
+http://iptv.tvmalaysia.cc:80/penang123/penang123/6612
