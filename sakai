@@ -105,7 +105,7 @@ http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="105" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima¹
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="106" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
