@@ -894,7 +894,7 @@ http://clientportal.link:80/7RgEEvt643/LtlEma51/1965
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN HD US" tvg-logo="https://picon-13398.kxcdn.com/nbcsnus.jpg" group-title="US/UK",NBCSN HD US
 http://clientportal.link/7RgEEvt643/LtlEma51/9008
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD US" tvg-logo="https://picon-13398.kxcdn.com/espnhd.jpg" group-title="LUS/UK",ESPN HD US
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD US" tvg-logo="https://picon-13398.kxcdn.com/espnhd.jpg" group-title="US/UK",ESPN HD US
 http://clientportal.link:80/7RgEEvt643/LtlEma51/9023
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg" group-title="US/UK",ESPN 2 US
