@@ -28,8 +28,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3¹
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8
-#backup-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#backup-https://pcccw.github.io/Ark/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
+#backup-http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 #backup-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 #backup-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/103.m3u8
 
@@ -305,7 +304,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-id="705" group-title="Chinese/Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX¹
-https://nonton.site:8443/Ainamanja/RPLf79Gusm/37408
+http://50.7.161.82:8278/streams/d/kixj_pye/playlist.m3u8
 # http://45.126.83.51/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-id="393" group-title="Chinese/Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE 
@@ -318,6 +317,9 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-id="392" group-title="Chinese/Korean" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="392" group-title="Chinese/Korean" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World¹
+http://50.7.161.82:8278/streams/d/kbsw_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="396" group-title="Chinese/Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",KPlus H
 http://210.210.155.35/uq2663/h/h08/01.m3u8
@@ -872,21 +874,3 @@ http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="Sports" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD¹
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
-
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="US/UK",BT Sport 1
-http://clientportal.link:80/7RgEEvt643/LtlEma51/14657
-
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="US/UK",BT Sport 2
-http://clientportal.link:80/7RgEEvt643/LtlEma51/14658
-
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="US/UK",BT Sport 3
-http://clientportal.link:80/7RgEEvt643/LtlEma51/1965
-
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN HD US" tvg-logo="https://picon-13398.kxcdn.com/nbcsnus.jpg" group-title="US/UK",NBCSN HD US
-http://clientportal.link/7RgEEvt643/LtlEma51/9008
-
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD US" tvg-logo="https://picon-13398.kxcdn.com/espnhd.jpg" group-title="US/UK",ESPN HD US
-http://clientportal.link:80/7RgEEvt643/LtlEma51/9023
-
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg" group-title="US/UK",ESPN 2 US
-http://clientportal.link:80/7RgEEvt643/LtlEma51/9022
