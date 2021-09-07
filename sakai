@@ -470,8 +470,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="PRIVEHD" tvg-name="Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" group-title="Movies",&PRIVé HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies",Sony Pix HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies",Sony Pix HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies",Sony Pix HD¹
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Movies", Star Movies Select HD
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
@@ -568,6 +571,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
+#EXTINF:-1 tvg-id="552" group-title="Lifestyle & Knowledge" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",Discovery Channel¹
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+
 #EXTINF:-1 tvg-id="553" group-title="Lifestyle & Knowledge" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png",Discovery Asia
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37391
 
@@ -640,6 +646,9 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 group-title="Lifestyle & Knowledge" ch-number="531" tvg-id="531" tvg-chno="531" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV Asia
 http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/394/104/png-transparent-channel-v-television-channel-music-television-star-india-v-miscellaneous-television-angle.png" group-title="Lifestyle & Knowledge" tvg-id="CHN" tvg-name="CHN", Channel V
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ZTliZjFmMDktMmUzNS0zMzliLWIyMzctMjBlZmNmNTI4NDk3
 #EXTINF:-1 group-title="Kids" ch-number="550" tvg-id="550" tvg-chno="550" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png",Dreamworks HD
@@ -693,6 +702,9 @@ http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax¹
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus.id" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
@@ -869,3 +881,6 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/H75Y4Z9/sony-six.png",SONY SIX HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
