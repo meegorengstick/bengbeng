@@ -25,7 +25,7 @@ http://iptv.tvmalaysia.cc:80/live/jalan8/jalan8/9016.m3u8
 #backup-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
 
 #EXTINF:-1  tvg-id="TVIKIM" group-title="Malaysian Variety" tvg-logo="https://i.imgur.com/PcPDrl9.png?v=1.1.1.1",TVIKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="147" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
 https://github.com/KakLongGarang/hentamsajala/raw/main/NTV7.m3u8
@@ -212,10 +212,16 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #EXTINF:-1 group-title="Chinese/Korean" ch-number="211" tvg-id="211" tvg-chno="211" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
+#EXTINF:-1 group-title="Chinese/Korean" ch-number="211" tvg-id="211" tvg-chno="211" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD¹
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/tvn.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
 #EXTINF:-1 group-title="Chinese/Korean" tvg-id="201" ch-number="201" tvg-chno="201" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies HD
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 group-title="Chinese/Korean" tvg-id="201" ch-number="201" tvg-chno="201" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies HD¹
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/tvnmovies.m3u8
 
 #EXTINF:-1 tvg-id="300" group-title="Chinese/Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",iQIYI HD
 http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
@@ -407,6 +413,12 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 group-title="Entertainment" ch-number="451" tvg-id="451" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV HD
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/blueantextreme.png" group-title="Entertainment", Blue Ant Extreme
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/blueantextreme.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/blueantentertainment.png" group-title="MALAYSIA ASTRO", Blue Ant Entertainment
+https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/blueantentertainment.m3u8
+
 #EXTINF:-1 tvg-id="AnimalPlanetHD" group-title="Lifestyle & Knowledge" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -581,7 +593,8 @@ https://linear01-playback.sooka.my/CH5/masterCH5.mpd
 https://linear02-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/index.m3u8
+#backup-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeGg2UmFCSjFFenFqbi12QnlpVEdEenZXWW5QeE5Xc0JKQjBaaC1LY3liWmFGdTQ5LWtwbGE5Q0pDeUJZS1VlS2NoQWVvZzRKNHNDS1ItM3NTMWxER2E4WVFOTzF4bHQ1eDJmVFlWNzQ4TU9jRUh4SlRQN2p5WTJZaWRNczB3Q3ZNMGR3b1BhLTA1QWs1S3ZZRVozLVNjN3ZVcFVsUDJaWUtiQkRnZ0E3VjlGeENOVlhvN1B6NzJEVnQyUk9BNW5lTExhdDJmWC1yR0FyQ3NpOFU2bkFtcXRSUDFfdWxyTWQ0d09XWlNOWnhqU1NpX1N6cXh3M3RXRWNVN09ncDRRZHdqVnVPQ1cwb0ZHVDRoYVdibThITkZoZW9zZnRwR0VHYXMtYjFMZmJEMHNNVlV0WWdfd1laQ3ZaN21nSm45QzJUN1Jzc21peDFvM1llZ0pIZ0lTRzRMOFpka0VZNlFsZFQ4ckpTTlhuNzFwckxna0NwdXJsNGF0NklYaG8tSzhVc2JaWDR0ZTZXd2N2NmpGOTBtSnFzNWhCbGpMYnpsLXZuV1M5V2xiYjF4SzZmUTJjcHR0Q1RFenRaMGxHNTVPczZDVXMydXFhT0NSYVFlbDlXTEx0MXdobVVxdEFZMEYwMHRYRlVZNXB0VjNxbkNiOG1fcG4wN1VtY1RlbldwcF83d3RVTWNuWnVmZEpab2tNbkVob0dVJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNDciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYmRhN2Y3NGJfODQyZl80ZjBlX2IxNDJfMzk1ZGFkZDkxZjA3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHhoNlJhQkoxRXpxam4tdkJ5aVRHRHp2V1luUHhOV3NCSkIwWmgtS2N5YlphRnU0OS1rcGxhOUNKQ3lCWUtVZUtjaEFlb2c0SjRzQ0tSLTNzUzFsREdhOFlRTk8xeGx0NXgyZlRZVjc0OE1PY0VIeEpUUDdqeVkyWWlkTXMwd0N2TTBkd29QYS0wNUFrNUt2WUVaMy1TYzd2VXBVbFAyWllLYkJEZ2dBN1Y5RnhDTlZYbzdQejcyRFZ0MlJPQTVuZUxMYXQyZlgtckdBckNzaThVNm5BbXF0UlAxX3Vsck1kNHdPV1pTTlp4alNTaV9TenF4dzN0V0VjVTdPZ3A0UWR3alZ1T0NXMG9GR1Q0aGFXYm04SE5GaGVvc2Z0cEdFR2FzLWIxTGZiRDBzTVZVdFlnX3dZWkN2WjdtZ0puOUMyVDdSc3NtaXgxbzNZZWdKSGdJU0c0TDhaZGtFWTZRbGRUOHJKU05YbjcxcHJMZ2tDcHVybDRhdDZJWGhvLUs4VXNiWlg0dGU2V3djdjZqRjkwbUpxczVoQmxqTGJ6bC12bldTOVdsYmIxeEs2ZlEyY3B0dENURXp0WjBsRzU1T3M2Q1VzMnVxYU9DUmFRZWw5V0xMdDF3aG1VcXRBWTBGMDB0WEZVWTVwdFYzcW5DYjhtX3BuMDdVbWNUZW5XcHBfN3d0VU1jblp1ZmRKWm9rTW5FaG9HVSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=tfddzk%2bZhQl09hTvxhSnSlOyB1k%3d
