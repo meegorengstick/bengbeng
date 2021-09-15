@@ -5,9 +5,15 @@
 http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 #backup-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="101" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1¹
+ttps://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+
 #EXTINF:-1 tvg-id="102" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #backup-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="102" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2¹
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 https://raw.githubusercontent.com/555Z555/music3/main/tv3bikap.m3u8 
@@ -21,7 +27,7 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-id="123" group-title="Malaysian Variety" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV
-http://iptv.tvmalaysia.cc:80/live/jalan8/jalan8/9016.m3u8
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/387
 #backup-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
 
 #EXTINF:-1  tvg-id="TVIKIM" group-title="Malaysian Variety" tvg-logo="https://i.imgur.com/PcPDrl9.png?v=1.1.1.1",TVIKIM
@@ -30,12 +36,21 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="147" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
 https://github.com/KakLongGarang/hentamsajala/raw/main/NTV7.m3u8
 
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="147" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM¹
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/107.m3u8|Referer=https://www.dailymotion.com
+
 #EXTINF:-1 group-title="Chinese/Korean" ch-number="108" tvg-id="148" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 https://github.com/KakLongGarang/hentamsajala/raw/main/8TV.m3u8
+
+#EXTINF:-1 group-title="Chinese/Korean" ch-number="108" tvg-id="148" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV¹
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/108.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF: -1 tvg-id="149" group-title="Malaysian Variety" tvg-id="149" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",TV9
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV9.m3u8
 #backup-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u
+
+#EXTINF: -1 tvg-id="149" group-title="Malaysian Variety" tvg-id="149" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",TV9¹
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/109.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
@@ -47,6 +62,9 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="146" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-id="146" group-title="Malaysian Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY¹
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="501" group-title="Malaysian Variety" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Awani 
 http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
@@ -383,9 +401,6 @@ http://watchindia.net:8880/live/33253/72963/2102.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill¹
-http://203.154.177.124:8899/live/ch21/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="Entertainment" ch-number="453" tvg-id="453" tvg-chno="453" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",FOX
@@ -416,10 +431,10 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 group-title="Entertainment" ch-number="451" tvg-id="451" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV HD
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/blueantextreme.png" group-title="Entertainment", Blue Ant Extreme
+#EXTINF:-1 group-title="Entertainment" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",Blue Ant Extreme
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/blueantextreme.m3u8
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/pembriahmad/logo-tv/main/blueantentertainment.png" group-title="Entertainment", Blue Ant Entertainment
+#EXTINF:-1 group-title="Entertainment" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/blueantentertainment.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetHD" group-title="Lifestyle & Knowledge" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",Animal Planet HD
