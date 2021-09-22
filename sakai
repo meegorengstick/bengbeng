@@ -10,7 +10,8 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #backup-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/stream/TV3.m3u8
+#backup-http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="Malaysian Variety" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3¹
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8
