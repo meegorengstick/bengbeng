@@ -648,12 +648,3 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uIU7D3V.png" group-title="Sports", BT SPORT 1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3418
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/luDBnKY.jpg" group-title="Sports", BT SPORT 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3419
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SxxkIqD.png" group-title="Sports", BT SPORT 3
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3420
