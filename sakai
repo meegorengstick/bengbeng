@@ -427,8 +427,15 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="Entertainment" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png",Rock Extreme
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/blueantextreme.m3u8
 
+#EXTINF:-1 group-title="Entertainment" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png",Rock Extreme¹
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
 #EXTINF:-1 group-title="Entertainment" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/blueantentertainment.m3u8
+
+#EXTINF:-1 group-title="Entertainment" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment¹
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+
 
 #EXTINF:-1 tvg-id="AnimalPlanetHD" group-title="Lifestyle & Knowledge" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -449,10 +456,10 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 
 #EXTINF:-1 tvg-id="553" group-title="Lifestyle & Knowledge" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png",Discovery Asia
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745711
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/98
 
 #EXTINF:-1 tvg-id="554" group-title="Lifestyle & Knowledge" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png",Discovery Science
-https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/99
 
 #EXTINF:-1 tvg-id="555" group-title="Lifestyle & Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -509,10 +516,6 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Kids" ch-number="550" tvg-id="550" tvg-chno="550" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png",Dreamworks HD
-http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
 #EXTINF:-1 group-title="Kids" ch-number="552" tvg-id="552" tvg-chno="552" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png",Nick Jr.
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
@@ -557,13 +560,14 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+#backup-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="719" group-title="Kids" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax¹
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus.id" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555",Aniplus
-http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
@@ -649,3 +653,9 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtuANk.jpg" group-title="Sports",BT Sport 1
+http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct6Z2V.jpg" group-title="Sports",BT Sport 2
+http://sptkid.gcdn.co/btsport2_b/tracks-v1a1/mono.m3u8
