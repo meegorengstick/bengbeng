@@ -282,12 +282,6 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-id="394" group-title="Chinese/Korean" tvg-logo="https://i.ibb.co/dKXmpGd/ohk.png",Oh!K HD
 http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
 
-#EXTINF:-1 group-title="Indian Variety" tvg-id="201" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
-
-#EXTINF:-1 group-title="Indian Variety" tvg-id="251" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",BollyOne HD
-http://50.7.161.82:8278/streams/d/Bollyone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #backup-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -609,12 +603,9 @@ https://linear02-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/index.m3u8
-#backup-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yek9XZVpTcGk1TjVTaExENW9rNlgxTXBjendERWp0UlBHYlk2LVlxblozX0R5ZGUtVGpSMzlEWjFNeHBjd3BYZ0lPbGZmR19rajFvZTZDR3FweWg5Z0kxMFhyUXp3eVJTVXlQZ2gwdDloanktU0tna1U3XzdOMV9ZYlhpektta1ZzVzlwOFEtaGN5RWtzeVVGZlR0dWZweWthaTRxQUMyMjJmeUtUc0tVbkhpc3Qzb1RETWU1SGR0R2diMFlibnRQUl9QWFR6TTdvbzBSOFdFTmJJZkxUMzFRSThRRkhxQ1E4aHBnLUNwQ3g0bG4yR0IwQlg4b3JiMkZITlFyd0FJQm5EY3p4emVxbzVYU0V3S3MtR3JSaFlNZ0JJMlpmb1piQklxUGNJa3h5YkliVUIydThDZGYta3RTOFYwWUZrd0hFUzh2Y2FLRk1zWkxTZFkwRVBtZFJBSFlnZG01UmlhX3E2Si1DOHZPOW5ZY2xZV25GZE0xNUxEMGw4WHczVXJrckM1OUdrQUt5am1ndExMZE5XRG9lZEFnbzJtN0gweVhWWVBDaHJwTkVKRC1GQXNFTUh3WHp6eU5RMGtyaWZPTzdjSHNxSldpZHZ1SkN6U0Fud3J2MU4zV1VuUlY1c2E2ZDhETDZJTlZqU1NaZHEyczBsZmVsbVNPSmIwaDNFel84PSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTQ3IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImJkYTdmNzRiXzg0MmZfNGYwZV9iMTQyXzM5NWRhZGQ5MWYwNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h6T1dlWlNwaTVONVNoTEQ1b2s2WDFNcGN6d0RFanRSUEdiWTYtWXFuWjNfRHlkZS1UalIzOURaMU14cGN3cFhnSU9sZmZHX2tqMW9lNkNHcXB5aDlnSTEwWHJRend5UlNVeVBnaDB0OWhqeS1TS2drVTdfN04xX1liWGl6S21rVnNXOXA4US1oY3lFa3N5VUZmVHR1ZnB5a2FpNHFBQzIyMmZ5S1RzS1VuSGlzdDNvVERNZTVIZHRHZ2IwWWJudFBSX1BYVHpNN29vMFI4V0VOYklmTFQzMVFJOFFGSHFDUThocGctQ3BDeDRsbjJHQjBCWDhvcmIyRkhOUXJ3QUlCbkRjenh6ZXFvNVhTRXdLcy1HclJoWU1nQkkyWmZvWmJCSXFQY0lreHliSWJVQjJ1OENkZi1rdFM4VjBZRmt3SEVTOHZjYUtGTXNaTFNkWTBFUG1kUkFIWWdkbTVSaWFfcTZKLUM4dk85blljbFlXbkZkTTE1TEQwbDhYdzNVcmtyQzU5R2tBS3lqbWd0TExkTldEb2VkQWdvMm03SDB5WFZZUENocnBORUpELUZBc0VNSHdYenp5TlEwa3JpZk9PN2NIc3FKV2lkdnVKQ3pTQW53cnYxTjNXVW5SVjVzYTZkOERMNklOVmpTU1pkcTJzMGxmZWxtU09KYjBoM0V6Xzg9IiwidWRpZCI6IjRjYWI1ZDM0LTE2ODQtNGE0NC1iOWFmLTE5Mzg0MzZlOGRlNF93ZWJfaXphZC5hbGFuQGdtYWlsLmNvbV9XRUItMzc4Yjk5NWUtYWI3NC1jZWY5LTBhZDYtYTgwNTRiNmM5ZDZhIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ==&signature=cnVwNLcYhR91XW18ppG+0r5FFPw=&sessionId=c56fb2af-1e6e-b42a-d869-988719881576:7937b154-5a42-3d01-9c78-7fc704be8735&clientTag=html5:v7.38.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L3RveW90YS1nci1jaGFtcGlvbnNoaXAtLS1zZW1pJTI1MjBmaW5hbC8xMDk0NDg5L3BsYXllcj9saW5lYXJJZD0xMDAwNzE1OTgmaXNMaXZlPXRydWU=
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network¹
-https://linear01-playback.sooka.my/CH2/masterCH2.mpd
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-id="821" group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
